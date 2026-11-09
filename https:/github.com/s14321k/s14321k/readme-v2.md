@@ -1,0 +1,1 @@
+This readme v2.md file is created by github mcp server. Uded ollama local.
