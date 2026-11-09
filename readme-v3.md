@@ -1,0 +1,1 @@
+This readme v2.md file is created by github mcp server. Used ollama local. This is to correct the path which is created.
